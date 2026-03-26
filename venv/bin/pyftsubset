@@ -1,4 +1,4 @@
-#!/Users/abhijithmr/Downloads/mlproject/venv/bin/python
+#!/Users/abhijithmr/Downloads/mlproject/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

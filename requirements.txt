@@ -1,4 +1,6 @@
 pandas 
 seaborn
 numpy
--e . # to trigger setup.py
+scikit-learn
+catboost
+xgboost
